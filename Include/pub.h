@@ -15,7 +15,7 @@
 #include <sys/stat.h>
 
 #define PORT 8888
-#define BUFSIZE 10240
+#define BUFSIZE 1024
 #define MSG_FAILURE -1
 #define MSG_SUCCESS 0
 #define MSG_REGISTER 1
